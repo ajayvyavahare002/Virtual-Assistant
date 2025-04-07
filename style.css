@@ -39,5 +39,6 @@ h1 {
 #voice {
     width: 210px;
     background-color: black;
+    display: none;
 }
 
